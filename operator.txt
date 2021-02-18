@@ -1,0 +1,9 @@
+ Nama	            Simbol di Java
+    AND	                        &
+    OR	                        |   
+    XOR	                        ^
+    Negasi/kebalikan	        ~
+    Left Shift	                «
+    Right Shift	                »
+    Left Shift (unsigned)	    «<
+    Right Shift (unsigned)	    »>
